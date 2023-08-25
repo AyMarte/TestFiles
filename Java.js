@@ -1,3 +1,3 @@
 function start() {
-window.open("someurl", "_blank");
+window.open("https://www.youtube.com/watch?v=JzvDoyW5u5g", "_blank");
 }
